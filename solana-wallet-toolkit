@@ -1,0 +1,10 @@
+solana-wallet-toolkit/
+├── README.md
+├── package.json
+├── .gitignore
+├── src/
+│   ├── index.ts
+│   ├── wallet.ts
+│   └── balance.ts
+└── tests/
+    └── wallet.test.ts
